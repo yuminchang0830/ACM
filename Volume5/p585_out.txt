@@ -1,0 +1,27 @@
+Triangle #1
+The largest triangle area is 9.
+
+Triangle #2
+The largest triangle area is 4.
+
+Triangle #3
+The largest triangle area is 25.
+
+Triangle #4
+The largest triangle area is 9.
+
+Triangle #5
+The largest triangle area is 4.
+
+Triangle #6
+The largest triangle area is 1.
+
+Triangle #7
+The largest triangle area is 0.
+
+Triangle #8
+The largest triangle area is 0.
+
+Triangle #9
+The largest triangle area is 1.
+

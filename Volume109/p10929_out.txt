@@ -1,0 +1,9 @@
+112233 is a multiple of 11.
+30800 is a multiple of 11.
+2937 is a multiple of 11.
+323455693 is a multiple of 11.
+5038297 is a multiple of 11.
+112234 is not a multiple of 11.
+0011 is a multiple of 11.
+112233445566778899 is a multiple of 11.
+10999999999999989 is a multiple of 11.

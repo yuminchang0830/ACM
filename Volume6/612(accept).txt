@@ -1,0 +1,18 @@
+寄件者: Valladolid Online Judge [lawyer@acm.uva.es]
+寄件日期: 2004年9月25日星期六 上午 11:56
+收件者: br902371@cs.nthu.edu.tw
+主旨: [134] Accepted: 612
+
+Dear ultra5:
+
+Your C program has solved Ok the problem 612 (DNA Sorting)
+in 0.338 seconds using as much as 392 kbytes of virtual memory.
+Congratulations!
+ 
+--
+
+PS: Check the board at http://acm.uva.es/board/
+
+The Online Judge (Linux acm.uva.es 2.4.18-27.7.x i686)
+Judge software version 2.8 [http://acm.uva.es/problemset/]
+Sat Sep 25 03:55:44 UTC 2004
